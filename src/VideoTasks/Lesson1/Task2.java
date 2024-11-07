@@ -1,4 +1,4 @@
-package Lesson1;
+package VideoTasks.Lesson1;
 
 public class Task2 {
     public static void main(String[] args) {

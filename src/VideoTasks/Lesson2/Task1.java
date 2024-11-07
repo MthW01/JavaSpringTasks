@@ -1,4 +1,4 @@
-package Lesson2;
+package VideoTasks.Lesson2;
 
 import java.util.Random;
 
