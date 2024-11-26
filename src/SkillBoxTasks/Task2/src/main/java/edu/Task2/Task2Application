@@ -1,0 +1,15 @@
+package SkillBoxTasks.Task2.src.main.java.edu.Task2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableAsync;
+
+@EnableAsync
+@SpringBootApplication
+public class Task2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Task2ApplicationApplication.class, args);
+    }
+
+}
