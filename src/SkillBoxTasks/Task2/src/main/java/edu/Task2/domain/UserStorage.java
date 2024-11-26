@@ -1,6 +1,6 @@
-package SkillBoxTasks.Task2.src.main.java.edu.Task2.domain;
+package edu.Task2.domain;
 
-import SkillBoxTasks.Task2.src.main.java.edu.Task2.domain.User;
+import edu.Task2.domain.User;
 import org.springframework.stereotype.Component;
 
 import java.util.LinkedHashMap;

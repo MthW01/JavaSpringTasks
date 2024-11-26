@@ -1,7 +1,7 @@
-package SkillBoxTasks.Task2.src.main.java.edu.Task2.shell;
+package edu.Task2.shell;
 
-import SkillBoxTasks.Task2.src.main.java.edu.Task2.domain.User;
-import SkillBoxTasks.Task2.src.main.java.edu.Task2.domain.UserStorage;
+import edu.Task2.domain.User;
+import edu.Task2.domain.UserStorage;
 import SkillBoxTasks.Task2.src.main.java.edu.Task2.evlistener.event.AddUserEvent;
 import SkillBoxTasks.Task2.src.main.java.edu.Task2.evlistener.event.DeleteUserEvent;
 import lombok.RequiredArgsConstructor;
