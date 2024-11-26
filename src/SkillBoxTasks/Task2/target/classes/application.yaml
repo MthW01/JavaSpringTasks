@@ -1,0 +1,13 @@
+server:
+  port: 2004
+spring:
+  application:
+    name: Task2
+  shell:
+    interactive:
+      enabled: true
+  profiles:
+    active: ${PROFILE:default}
+
+init-file:
+  path: ${FILE_PATH:Task2/src/main/resources/init.txt}
