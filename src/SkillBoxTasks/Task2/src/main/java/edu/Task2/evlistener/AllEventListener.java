@@ -1,4 +1,4 @@
-package edu.Task2.evlistener;
+package SkillBoxTasks.Task2.src.main.java.edu.Task2.evlistener;
 
 import SkillBoxTasks.Task2.src.main.java.edu.Task2.evlistener.event.AddUserEvent;
 import SkillBoxTasks.Task2.src.main.java.edu.Task2.evlistener.event.DeleteUserEvent;

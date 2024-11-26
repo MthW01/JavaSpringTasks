@@ -1,4 +1,4 @@
-package edu.Task2.domain;
+package SkillBoxTasks.Task2.src.main.java.edu.Task2.domain;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,6 +1,6 @@
-package edu.Task2.common;
+package SkillBoxTasks.Task2.src.main.java.edu.Task2.common;
 
-import edu.Task2.domain.User;
+import SkillBoxTasks.Task2.src.main.java.edu.Task2.domain.User;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

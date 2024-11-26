@@ -1,7 +1,7 @@
-package edu.Task2.cfg;
+package SkillBoxTasks.Task2.src.main.java.edu.Task2.cfg;
 
-import edu.Task2.domain.UserStorage;
-import edu.Task2.common.Parser;
+import SkillBoxTasks.Task2.src.main.java.edu.Task2.domain.UserStorage;
+import SkillBoxTasks.Task2.src.main.java.edu.Task2.common.Parser;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
