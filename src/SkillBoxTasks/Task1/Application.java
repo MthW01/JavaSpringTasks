@@ -1,7 +1,7 @@
-package SkillBoxTasks.Task1Edited;
+package SkillBoxTasks.Task1;
 
-import SkillBoxTasks.Task1Edited.contact.Contact;
-import SkillBoxTasks.Task1Edited.contact.FileManager;
+import SkillBoxTasks.Task1.contact.Contact;
+import SkillBoxTasks.Task1.contact.FileManager;
 
 import java.io.IOException;
 import java.util.List;
